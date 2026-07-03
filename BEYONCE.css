@@ -1,0 +1,46 @@
+body {
+	font-size: 10pt;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: black;
+	background-color: #D2B48C;
+	line-height: 14pt;
+	padding-left: 5pt;
+	padding-right: 5pt;
+	padding-top: 5pt;
+}
+h1 {
+	font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: 20pt;
+}
+h1.silly {font: 20pt Helvetica;}
+p.subheader{
+	font-weight: bold;
+	color: #593d87 ;
+}
+img {
+	padding: 3pt;
+	float: center;
+}
+mov {
+	padding: 3pt;
+	float: center;
+}
+a{
+	text-decoration: none;
+}
+a:link {
+   color: #800000;
+}
+a:visited {
+   color: #800000;
+}
+a:hover {
+   color: #FFFFF0;
+}
+a:focus {
+   color: #800000;
+}
+a:active {
+   color: #800000;
+}
